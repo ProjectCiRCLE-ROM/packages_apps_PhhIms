@@ -1,0 +1,7 @@
+[
+	{
+		"remote": "circle",
+		"repository": "packages_apps_PhhIms_app_jni_rnnoise",
+		"target_path": "packages/apps/PhhIms/app/jni/rnnoise"
+	}
+]
